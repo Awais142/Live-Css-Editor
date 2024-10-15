@@ -224,8 +224,8 @@ The **Live CSS Editor** bookmarklet lets you edit the CSS of any webpage in real
 
 ## Usage
 
-1. - Press ** CTRL+F12 to open console**.
-2. - Paste above code in console and hit Enter.
+1. Press ** CTRL+F12 to open console**.
+2. Paste above code in console and hit Enter.
 3. Select an element by clicking on it.
 4. Modify its styles in the editor that appears.
 5. Apply changes or download the element's modified HTML.
